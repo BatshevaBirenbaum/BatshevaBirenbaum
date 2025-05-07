@@ -5,6 +5,15 @@
 I am an ambitious and goal-oriented Full Stack Developer, envisioning the perfect product and executing it until the goal is achieved.
 I take responsibility and manage the task to the best of my ability.
 
+# 📂 My Projects
+
+Here’s a quick overview of my main repositories:
+
+| Project Name                  | Description                                      | Link                                                      |
+|-------------------------------|--------------------------------------------------|-----------------------------------------------------------|
+| Vacation Apartment Rentals (Node.js & React)   | A full-stack platform for managing vacation rentals. | [BatshevaBirenbaum/vacation-apartment-rentals-node.js-react](https://github.com/BatshevaBirenbaum/vacation-apartment-rentals-node.js-react) |
+| Makeup Store (C# & Angular)   | E-commerce site for beauty products.             | [BatshevaBirenbaum/makeup-store-csharp-angular](https://github.com/BatshevaBirenbaum/makeup-store-csharp-angular)  |
+
 
 ## 🛠️ Languages and Tools
 
