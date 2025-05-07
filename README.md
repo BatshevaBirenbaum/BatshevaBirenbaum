@@ -1,14 +1,17 @@
-##🌟 About Me
+# Bat sheva birenbaum
 
-I am an ambitious and goal-driven Full Stack Developer. I take responsibility and execute tasks to the best of my ability.
+
+## 🌟 About Me
+I am an ambitious and goal-oriented Full Stack Developer, envisioning the perfect product and executing it until the goal is achieved.
+I take responsibility and manage the task to the best of my ability.
 
 
 ## 🛠️ Languages and Tools
 
-- **Languages:** C, C++, C#, .NET, Python, Java, Node.js, JavaScript
-- **Frontend:** Angular, React, HTML5, CSS3, Blazor
-- **Databases:** MySQL, MongoDB, SQL Server
-- **Tools:** Docker, Git, Windows
+- **Programming Languages:** Python, C#, Node.js, C, C++, Java  
+- **Web Technologies:** Angular, ASP.NET Web API, MVC, .NET, HTML5, JavaScript, CSS, React.js  
+- **Databases:** MySQL, MongoDB, SQL Server  
+- **Cloud Platforms:** AWS, Render, Clever Cloud  
 
 ## 📬 Contact Me
 
