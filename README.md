@@ -1,4 +1,4 @@
-# Bat sheva birenbaum
+# Bat Sheva Birenbaum
 
 
 ## 🌟 About Me
