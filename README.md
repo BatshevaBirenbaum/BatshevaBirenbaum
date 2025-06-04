@@ -15,7 +15,7 @@ Here’s a quick overview of my main repositories:
 | Makeup Store (C# & Angular)   | E-commerce site for beauty products.             | [BatshevaBirenbaum/makeup-store-csharp-angular](https://github.com/BatshevaBirenbaum/makeup-store-csharp-angular)  |
 | todos           | [todos.com](https://todos-tk2y.onrender.com/)      | [BatshevaBirenbaum/todos](https://github.com/BatshevaBirenbaum/todos)             |
 | HTML Selector Parser (C#)     | A lightweight C# library for parsing HTML into a DOM-like tree and querying with CSS-style selectors. | [BatshevaBirenbaum/html-selector](https://github.com/BatshevaBirenbaum/html_selector) |
-| CodeBundlerCLI (C#)           | A command-line tool that bundles multiple source files from subdirectories into a single output file with options for sorting, filtering, annotating, and customization. | [BatshevaBirenbaum/html-selector](https://github.com/BatshevaBirenbaum/html_selector) |
+| Code Bundler CLI (C#)           | A command-line tool that bundles multiple source files from subdirectories into a single output file with options for sorting, filtering, annotating, and customization. | [BatshevaBirenbaum/CodeBundlerCLI](https://github.com/BatshevaBirenbaum/CodeBundlerCLI) |
 
 
 
